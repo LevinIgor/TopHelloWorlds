@@ -1,0 +1,23 @@
+{
+  "name": "webcv",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^9.13.0",
+    "highlight.js": "^11.7.0",
+    "pinia": "^2.0.32",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6",
+    "vue3-highlightjs": "^1.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "sass": "^1.58.3",
+    "vite": "^4.1.4"
+  }
+}
